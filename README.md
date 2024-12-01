@@ -1,1 +1,1 @@
-This is the file forfor the folder usage-update
+This is the file for the installation updates.
