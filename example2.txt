@@ -1,0 +1,2 @@
+This is a test file for Git merge conflict example.
+Added a new line on branch-2 (this will conflict with branch-1).
